@@ -1,0 +1,1 @@
+{"n2 <= self.n": 1, "not visited[neighbour]": 2, "n1 <= self.n": 3, "current == end": 4, "edges[current] > i": 5, "current != end": 6, "edges length <= 2": 7, "found == True": 8, "edges length > 2": 9, "edges[current] <= i": 10, "found == False": 11, "visited[neighbour]": 12}
